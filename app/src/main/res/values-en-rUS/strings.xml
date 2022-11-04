@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Proyect 1</string>
+    <string name="opc_darkmode">Dark Mode</string>
+    <string name="es_primo">¿Es primo?</string>
+    <string name="verificar">Check</string>
+    <string name="valor_requerido">Required a number</string>
+    <string name="ingresa_valor">Please type a number</string>
+    <string name="si_primo">¡El número %1$d sí es primo%2$s</string>
+    <string name="no_primo">¡El número %d no es primo!</string>
+    <string name="hint">Number</string>
+    <string name="desc_fondo">Background</string>
+    <string name="texto_prueba">Hello</string>
+    <string name="formula">Formula</string>
+    <string name="calcular">Calculate</string>
+    <string name="vacio">Cant be missing fields.</string>
+    <string name="b">Base :</string>
+    <string name="h">Height :</string>
+    <string name="r">Radius :</string>
+        <string name="resultado">Result</string>
+    <string name="defau">0</string>
+    <string name="nombre">Jesus Enrique Castro Meza</string>
+    <string-array name="formulas">
+        <item>Triangle area</item>
+        <item>Circle area</item>
+        <item>Cylinder volume</item>
+    </string-array>
+</resources>
